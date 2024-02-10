@@ -22,7 +22,7 @@ title: Lucas Oliveri
 email: lucas.oliveri@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog website.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "lukazsdev" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  lukaszdev
